@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-- 🌱 I’m currently a Senior Business Analyst.
+- 🌱 I’m currently a Senior Business Data Analyst.
 - 🔭 I'm working on a project analyzing flight delays for over 1.8 million flights in the US.
 - ⚡ You can view my portfolio [here](https://mavenanalytics.io/profile/gurjeevanmalhi).
 - 📫 You can also find me on [LinkedIn](https://www.linkedin.com/in/gurjeevanmalhi/).
