@@ -2,7 +2,7 @@
 
 - I’m currently a Senior Business Analyst.
 - I'm working on a project analyzing sales data for a Global Electronics Retailer.
-- You can view my showcase portfolio [here]([https://mavenanalytics.io/profile/gurjeevanmalhi](https://mavenshowcase.com/profile/e85163e0-1051-70c0-a65c-4004b9713afb)).
+- You can view my showcase portfolio [here](https://mavenshowcase.com/profile/e85163e0-1051-70c0-a65c-4004b9713afb).
 - You can also find me on [LinkedIn](https://www.linkedin.com/in/gurjeevanmalhi/).
 
 <!--
